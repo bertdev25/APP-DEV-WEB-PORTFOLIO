@@ -575,3 +575,7 @@ header.header i {
     margin-top: 3rem;
     margin-bottom: 15rem; 
 }
+
+footer#footer {
+    margin-top: 10rem;
+}
